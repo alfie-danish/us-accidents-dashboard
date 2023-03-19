@@ -19,7 +19,7 @@ Overall, the **Accidents in the USA - Moving Average Dashboard** is an essential
 - [Tableau](https://www.tableau.com/)
 
 ##### Higlights
-- [Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) acquisition, engineering and cleaning performed using [Python](https://www.python.org/)
+- [Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) acquisition, engineering and cleaning performed using Python. The Python code can be found [here](https://github.com/alfie-danish/us-accidents-dashboard/blob/main/notebooks/get-data.ipynb).
 - Moving Average line chart provides user interactivity by allowing for date range highlighting
 - Titles update dynamically with the selected date range, period and duration. These dynamically change upon user selection from the Filter section and/or highlighting date range within the line chart
 - Data in all charts updates based on user selection
